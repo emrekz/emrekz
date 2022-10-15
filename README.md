@@ -1,5 +1,5 @@
 ### Hi there 👋
-Electronics Engineer, Mid-Level Javascript Developer, currently learning C/C++.&nbsp;
+Electrical & Electronics Engineer, Mid-Level Javascript Developer, currently learning C/C++.&nbsp;
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/emre-k-067258119)
 
