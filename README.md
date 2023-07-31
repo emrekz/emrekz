@@ -2,6 +2,8 @@
 Electrical & Electronics Engineer, Mid-Level Javascript Developer, currently learning C/C++.&nbsp;
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/emre-k-067258119)
+[![Linkedin Badge](https://img.shields.io/badge/YouTube-CD201F?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@dlogic937)
+
 
 <!--
 **emrekz/emrekz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
