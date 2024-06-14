@@ -1,4 +1,10 @@
-## Hi there 👋
+##### Electrical & Electronics Engineer, writing code with C / C++ / Javascript.&nbsp;
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-round&logo=Linkedin&logoColor=white)](http://linkedin.com/in/emre-k-067258119)
+[![Linkedin Badge](https://img.shields.io/badge/YouTube-CD201F?style=flat-round&logo=Youtube&logoColor=white)](https://www.youtube.com/@dlogic937)
+[![Linkedin Badge](https://img.shields.io/badge/-Stackoverflow-white?style=round-square&logo=Stackoverflow&logoColor=e7700d)](https://stackoverflow.com/users/17823490/emre)
+
+
 
 <!--
 **emrekz/emrekz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
