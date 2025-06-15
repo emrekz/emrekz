@@ -1,9 +1,10 @@
-##### Electrical & Electronics Engineer, writing code with C / C++ / Javascript.&nbsp;
+##### Electrical & Electronics Engineer, developing embedded systems, writing code with C / C++ / Javascript
+###### *You can contact over Linkedin or Fiverr*
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-round&logo=Linkedin&logoColor=white)](http://linkedin.com/in/emre-k-067258119)
-[![Linkedin Badge](https://img.shields.io/badge/YouTube-CD201F?style=flat-round&logo=Youtube&logoColor=white)](https://www.youtube.com/@dlogic937)
-[![Linkedin Badge](https://img.shields.io/badge/-Stackoverflow-white?style=round-square&logo=Stackoverflow&logoColor=e7700d)](https://stackoverflow.com/users/17823490/emre)
-
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](http://linkedin.com/in/emre-k-067258119)
+[![Youtube](https://img.shields.io/badge/YouTube-CD201F?style=flat-round&logo=Youtube&logoColor=white)](https://www.youtube.com/@dlogic937)
+[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-white?style=round-square&logo=Stackoverflow&logoColor=e7700d)](https://stackoverflow.com/users/17823490/emre)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](https://www.fiverr.com/s/yvXjGp5)
 
 
 <!--
